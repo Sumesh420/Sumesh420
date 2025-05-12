@@ -29,7 +29,7 @@ A cryptocurrency analytics platform that integrates with the CoinGecko API for r
 - Built with: React, Context API, React Google Charts
 - Key Features: Real-time market updates, historical data visualization, and search functionality.
 
-### **2. [CineWatch](https://cine-watch.netlify.app/login)**
+### **2. [CineWatch](https://cine-watch.netlify.app)**
 A Netflix clone built with Firebase authentication and the TMDB API to deliver movie details, trailers, and watchlists.
 
 - Built with: React, Firebase, Firestore
