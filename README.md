@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with exp
 Here are the tools and technologies I use:
 
 - **Frontend:** React, Redux, Next.js, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL
-- **Database:** MongoDB, MySQL, PostgreSQL
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB
 - **Cloud & Deployment:** Firebase, Appwrite,
 - **Version Control:** Git, GitHub,
 
